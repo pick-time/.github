@@ -2,13 +2,17 @@
 
 <br />
 
-## 피크타임
-
-<img width="347" alt="KakaoTalk_Photo_2023-06-26-21-25-03" src="https://github.com/pick-time/pick-time-fe/assets/103870198/bc0b370a-1711-4698-afcd-ddae226a20ec">
-
-
 
 [당신의 소중한 사람에게 마음을 전하세요!](https://pick-time.vercel.app)
+
+
+<br />
+
+## 피크타임
+
+<div align="center">
+<img width="347" alt="KakaoTalk_Photo_2023-06-26-21-25-03" src="https://github.com/pick-time/pick-time-fe/assets/103870198/bc0b370a-1711-4698-afcd-ddae226a20ec">
+</div>
 
 
 <br />
