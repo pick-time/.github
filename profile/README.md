@@ -2,6 +2,13 @@
 
 <br />
 
+|**[닝겐미키]()**|**[다모](https://github.com/comody)**|**[마크](https://github.com/zwonkim)**|**[마로](https://github.com/yooveloper)**|**[엘라](https://github.com/EllaSEON)**|**[코마](https://github.com/solar3070)**|**[토마토](https://github.com/devmtn30)**|**[타몽](https://github.com/blcklamb)**|
+|----|---|---|---|---|---|----|---|
+|<a href=""><img width="160px" alt="미키의 사진" src="https://github.com/pick-time/.github/assets/103870198/1b6f3b3f-1c66-4285-a0d2-72d8aee40af5">|<a href="https://github.com/comody"><img width="90px" alt="다모의 사진" src="https://github.com/pick-time/.github/assets/103870198/8519d713-1273-4e77-9abe-2f0dd9d56662">|<a href="https://github.com/zwonkim"><img width="90px" alt="마크의 사진" src="https://github.com/pick-time/.github/assets/103870198/72f8f8b4-852f-4433-bf13-2651035ee7b3">|<a href="https://github.com/yooveloper"><img width="90px" alt="마로의 사진" src="https://github.com/pick-time/.github/assets/103870198/656bf891-8576-447f-84e1-841740adefdb">|<a href="https://github.com/EllaSEON"><img width="90px" alt="엘라의 사진" src="https://github.com/pick-time/.github/assets/103870198/0bda309f-661f-4040-8ec3-3daa3e916f95">|<a href="https://github.com/solar3070"><img width="90px" alt="코마의 사진" src="https://github.com/pick-time/.github/assets/103870198/ad48cb3d-6b24-452f-95af-73604687a975">|<a href="https://github.com/devmtn30"><img width="90px" alt="토마토의 사진" src="https://github.com/pick-time/.github/assets/103870198/9412e0cc-8259-4f83-be85-6898acedf54c">|<a href="https://github.com/blcklamb"><img width="90px" alt="타몽의 사진" src="https://github.com/pick-time/.github/assets/103870198/2e21aa3e-a3ee-4f84-b6f9-9e5b4bdf5620">|
+|Designer|Back-end|Front-end|Front-end|Front-end|Front-end|Front-end|Back-end|Front-end|
+
+
+
 
 [당신의 소중한 사람에게 마음을 전하세요!](https://pick-time.vercel.app)
 
