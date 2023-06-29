@@ -8,7 +8,20 @@
 
 <br />
 
-## 피크타임
+## 서비스 개요
+
+<details>
+  <summary>목차</summary>
+  <ol>
+    <li><a href="#서비스-개요">서비스 개요</a></li>
+    <li><a href="#프로젝트-개요">프로젝트 개요</a></li> 
+    <li><a href="#Co-op-Conventions">협업 컨벤션</a></li>
+  </ol>
+</details>
+
+
+<br />
+
 
 <div align="center">
 <img width="347" alt="KakaoTalk_Photo_2023-06-26-21-25-03" src="https://github.com/pick-time/pick-time-fe/assets/103870198/bc0b370a-1711-4698-afcd-ddae226a20ec">
@@ -46,16 +59,7 @@
 
 이를 통해 선물 고민과 번거로움을 줄이고, 받는 사람이 만족하는 선물을 선정할 수 있는 서비스입니다.
 
-## 서비스 개요
-
-<details>
-  <summary>목차</summary>
-  <ol>
-    <li><a href="#서비스-개요">서비스 개요</a></li>
-    <li><a href="#프로젝트-개요">프로젝트 개요</a></li> 
-    <li><a href="#Co-op-Conventions">협업 컨벤션</a></li>
-  </ol>
-</details>
+<br />
 
 ### 우리가 생각하는 궁극적인 목적
 
@@ -89,7 +93,7 @@
 
 <img width="1100" alt="image" src="https://github.com/pick-time/pick-time-fe/assets/92101831/27ab50ce-dac3-418c-a7c0-95e981b38f2d">
 
-## 프로젝트 개요
+<br />
 
 ### 👨‍👩‍👦‍👦 조원
 
@@ -107,6 +111,8 @@
 <br />
 
 <hr />
+
+## 프로젝트 개요
 
 ## Quick Start
 
